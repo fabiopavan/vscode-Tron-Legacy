@@ -6,9 +6,17 @@
         "editor.foreground": "#6A8397",
         "editor.lineHighlightBackground": "#292F35",
         "editorWhitespace.foreground": "#424242",
-        "editorIndentGuide.background": "#616161",
+        "editorIndentGuide.background": "#2A3038",
         "editor.findMatchHighlightBackground": "#DD2C00",
-        "button.background": "#000000"
+        "editor.wordHighlightBackground": "#262F36",
+        "button.background": "#000000",
+"sideBar.background": "#000000",
+"sideBar.border": "#6F8495",
+"sideBarSectionHeader.background": "#000000",
+"sideBarSectionHeader.border": "#6F8495",
+"editorLineNumber.foreground": "#495561",
+"editorLineNumber.activeForeground": "#C6C6C7",
+
     },
 
     "tokenColors": [
@@ -66,7 +74,7 @@
                 "support.type.primitive"
             ],
             "settings": {
-                "foreground": "#F9A825"
+                "foreground": "#9BBDD6"
             }
         },
         {
@@ -97,7 +105,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#ECEFF1",
+                "foreground": "#4BB5BE",
                 "fontStyle": "normal"
             }
         },
