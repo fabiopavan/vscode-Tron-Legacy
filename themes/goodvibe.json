@@ -2,12 +2,13 @@
     "name": "Goodvibe",
     "type": "dark",
     "colors": {
-        "editor.background": "#1B1B1B",
-        "editor.foreground": "#00BCD4",
-        "editor.lineHighlightBackground": "#313131",
+        "editor.background": "#000000",
+        "editor.foreground": "#6A8397",
+        "editor.lineHighlightBackground": "#292F35",
         "editorWhitespace.foreground": "#424242",
         "editorIndentGuide.background": "#616161",
-        "editor.findMatchHighlightBackground": "#DD2C00"
+        "editor.findMatchHighlightBackground": "#DD2C00",
+        "button.background": "#000000"
     },
 
     "tokenColors": [
@@ -18,7 +19,7 @@
                 "punctuation.definition.comment"
             ],
             "settings": {
-                "foreground": "#81C784",
+                "foreground": "#CBEBFF",
                 "background": "#C5E1A5"
             }
         },
@@ -75,7 +76,7 @@
                 "constant.other.symbol"
             ],
             "settings": {
-                "foreground": "#FBC02D"
+                "foreground": "#848E9B"
             }
         },
         {
