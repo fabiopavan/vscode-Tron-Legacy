@@ -19,7 +19,7 @@ $ cd ~/.vscode/extensions/
 Clone repository as `goodvibe`:
 
 ```bash
-$ git clone https://github.com/claudioc/vscode-goodvibe claudioc.goodvibe
+$ git clone https://github.com/kenthinson/vscode-Tron-Legacy.git kenthinson.tron
 ```
 
 Now you can select this theme from the Theme selector in VSC
