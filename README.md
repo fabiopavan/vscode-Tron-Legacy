@@ -1,26 +1,6 @@
-# Goodvibe for Visual Studio Code
+# Tron Legacy for Visual Studio Code
 
-This theme has been developed while using it with TypeScript and JavaScript. I am not sure how it'd be like with other languages.
-
-## Screenshot
-![Theme Screenshot](screenshot-v0.0.1.png)
-
-Please note that screenshot is taken while using these settings:
-
-```
-  "editor.renderWhitespace": "all",
-  "editor.fontFamily": "Fira Mono",
-  "editor.fontSize": 14
-```
-
-## Features
-
-That's the list of things I wanted to focus on while developing Goodvibe:
-
-- Strings and numbers must be strongly pointed out
-- Comments must pop out
-- During a search, the highlighted matches must be _really_ highlighted 
-- Colors should use a known palette (Material UI)
+A work in progress theme for VS Code.
 
 ## Installation
 
