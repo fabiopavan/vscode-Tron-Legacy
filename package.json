@@ -1,13 +1,13 @@
 {
-    "name": "goodvibe",
-    "displayName": "Goodvibe",
+    "name": "Tron Legacy",
+    "displayName": "Tron Legacy",
     "description": "Color scheme for Visual Studio Code",
     "version": "0.0.1",
-    "publisher": "claudioc",
-    "license": "CC0-1.0",
+    "publisher": "Kent Hinson",
+    "license": "MIT",
     "author": {
-        "name": "Claudio Cicali",
-        "url": "http://github.com/claudioc"
+        "name": "Kent Hinson",
+        "url": "http://github.com/kenthinson"
     },
     "keywords": [
         "visual studio code",
@@ -18,10 +18,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/claudioc/vscode-goodvibe.git"
+        "url": "git+https://github.com/kenthinson/vscode-Tron-Legacy.git"
     },
     "bugs": {
-        "url": "https://github.com/claudioc/vscode-goodvibe/issues"
+        "url": "https://github.com/kenthinson/vscode-Tron-Legacy/issues"
     },
     "engines": {
         "vscode": "^1.0.0"
@@ -32,9 +32,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Goodvibe",
+                "label": "Tron Legacy",
                 "uiTheme": "vs-dark",
-                "path": "./themes/goodvibe.json"
+                "path": "./themes/tron.json"
             }
         ]
     }
