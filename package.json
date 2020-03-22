@@ -2,12 +2,12 @@
     "name": "Tron Legacy",
     "displayName": "Tron Legacy",
     "description": "Color scheme for Visual Studio Code",
-    "version": "0.0.1",
-    "publisher": "Kent Hinson",
+    "version": "1.0.0",
+    "publisher": "Fábio Pavan",
     "license": "MIT",
     "author": {
-        "name": "Kent Hinson",
-        "url": "http://github.com/kenthinson"
+        "name": "Fábio Pavan",
+        "url": "http://github.com/fabiopavan"
     },
     "keywords": [
         "visual studio code",
@@ -18,10 +18,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/kenthinson/vscode-Tron-Legacy.git"
+        "url": "git+https://github.com/fabiopavan/vscode-Tron-Legacy.git"
     },
     "bugs": {
-        "url": "https://github.com/kenthinson/vscode-Tron-Legacy/issues"
+        "url": "https://github.com/fabiopavan/vscode-Tron-Legacy/issues"
     },
     "engines": {
         "vscode": "^1.0.0"

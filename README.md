@@ -1,6 +1,6 @@
 # Tron Legacy for Visual Studio Code
 
-A work in progress theme for VS Code.
+Based on Ken Hintson's work, finished.
 
 ## Installation
 
@@ -16,14 +16,15 @@ $ cd %USERPROFILE%\.vscode\extensions
 $ cd ~/.vscode/extensions/
 ```
 
-Clone repository as `goodvibe`:
+Clone repository:
 
 ```bash
-$ git clone https://github.com/kenthinson/vscode-Tron-Legacy.git kenthinson.tron
+$ git clone https://github.com/fabiopavan/vscode-Tron-Legacy.git fabiopavan.tron
 ```
+If you don't have Git installed, you can download and unzip this theme, and drop it at VS Code extensions folder.
 
-Now you can select this theme from the Theme selector in VSC
+Now you can select this theme from the Theme selector in VSC.
 
 ## License
 
-This work is licensed under the MIT license
+This work is licensed under the MIT license.

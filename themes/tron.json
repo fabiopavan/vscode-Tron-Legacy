@@ -3,7 +3,7 @@
     "type": "dark",
     "colors": {
         "editor.background": "#000000",
-        "editor.foreground": "#6A8397",
+        "editor.foreground": "#64C3Cf",
         "editor.lineHighlightBackground": "#292F35",
         "editorWhitespace.foreground": "#424242",
         "editorIndentGuide.background": "#2A3038",
@@ -15,7 +15,7 @@
 "sideBarSectionHeader.background": "#000000",
 "sideBarSectionHeader.border": "#6F8495",
 "editorLineNumber.foreground": "#495561",
-"editorLineNumber.activeForeground": "#C6C6C7",
+"editorLineNumber.activeForeground": "#C6C6C7"
 
     },
 
@@ -32,18 +32,26 @@
             }
         },
         {
-            "name": "Keywords, Punctuation",
+            "name": "Keywords",
             "scope": [
                 "keyword",
                 "keyword.control",
                 "storage.type",
                 "storage.modifier",
-                "punctuation.definition.parameters",
-                "punctuation.section.parens.begin",
                 "variable.parameter",
                 "variable.other.property",
                 "support.variable.property.dom",
-                "variable.other.object.property",
+                "variable.other.object.property"
+            ],
+            "settings": {
+                "foreground": "#FF4500"
+            }
+        },
+        {
+            "name": "Punctuation",
+            "scope": [
+                "punctuation.definition.parameters",
+                "punctuation.section.parens.begin",
                 "punctuation.separator",
                 "punctuation.accessor",
                 "punctuation.definition.array"
@@ -55,12 +63,12 @@
         {
             "name": "Objects",
             "scope": [
-                "variable.other.object",
                 "support.class.console",
                 "support.variable.dom",
                 "support.constant",
                 "entity.name.type.module",
-                "entity.name.type"
+                "entity.name.type",
+                "variable.other.object"
             ],
             "settings": {
                 "foreground": "#80DEEA"
@@ -84,7 +92,7 @@
                 "constant.other.symbol"
             ],
             "settings": {
-                "foreground": "#848E9B"
+                "foreground": "#DF740C"
             }
         },
         {
@@ -105,7 +113,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#4BB5BE",
+                "foreground": "#00BCD4",
                 "fontStyle": "normal"
             }
         },
